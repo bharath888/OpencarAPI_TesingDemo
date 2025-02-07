@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "964848cd-183a-4cac-9e1b-164a2ff1e662",
+		"_postman_id": "93814e87-4871-4c95-8bb6-c3f8404be8b5",
 		"name": "OpencartRestAPI_Opencart",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "40781138"
@@ -390,7 +390,7 @@
 	"variable": [
 		{
 			"key": "ip",
-			"value": "192.168.1.5",
+			"value": "192.168.1.4",
 			"type": "string"
 		},
 		{
